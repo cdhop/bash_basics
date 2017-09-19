@@ -1,0 +1,6 @@
+www
+mail
+ova
+ftp
+ns
+admin
